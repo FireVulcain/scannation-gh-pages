@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/scannation-gh-pages/static/css/main.548d2e53.chunk.css",
+    "main.js": "/scannation-gh-pages/static/js/main.6b75eac6.chunk.js",
+    "main.js.map": "/scannation-gh-pages/static/js/main.6b75eac6.chunk.js.map",
+    "runtime-main.js": "/scannation-gh-pages/static/js/runtime-main.d1f5da96.js",
+    "runtime-main.js.map": "/scannation-gh-pages/static/js/runtime-main.d1f5da96.js.map",
+    "static/js/2.b41ddccb.chunk.js": "/scannation-gh-pages/static/js/2.b41ddccb.chunk.js",
+    "static/js/2.b41ddccb.chunk.js.map": "/scannation-gh-pages/static/js/2.b41ddccb.chunk.js.map",
+    "index.html": "/scannation-gh-pages/index.html",
+    "precache-manifest.54ff76b240b10fb46cd389816d66f972.js": "/scannation-gh-pages/precache-manifest.54ff76b240b10fb46cd389816d66f972.js",
+    "service-worker.js": "/scannation-gh-pages/service-worker.js",
+    "static/css/main.548d2e53.chunk.css.map": "/scannation-gh-pages/static/css/main.548d2e53.chunk.css.map",
+    "static/js/2.b41ddccb.chunk.js.LICENSE": "/scannation-gh-pages/static/js/2.b41ddccb.chunk.js.LICENSE",
+    "static/media/App.css": "/scannation-gh-pages/static/media/fire.40f6187b.svg",
+    "static/media/logo.png": "/scannation-gh-pages/static/media/logo.b64d5d72.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1f5da96.js",
+    "static/js/2.b41ddccb.chunk.js",
+    "static/css/main.548d2e53.chunk.css",
+    "static/js/main.6b75eac6.chunk.js"
+  ]
+}
